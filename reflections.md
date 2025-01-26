@@ -4,7 +4,7 @@ Below are reflection pieces written regarding two of the assignments completed d
 
 ### Literature Review Assignment - Reflection
 
-[System Design - Reflection](/pdf/system_design_reflection.pdf) 
+[Literature Review - Reflection](/pdf/reflection_lit_review.pdf) 
 
 
 ### Research Proposal Presentation - Reflection
