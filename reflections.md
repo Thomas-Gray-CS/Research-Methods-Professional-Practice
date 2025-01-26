@@ -2,15 +2,16 @@
 
 Below are reflection pieces written regarding two of the assignments completed during this module. One relates to the system design process and one relates to the system implementation process.
 
-### System Design Reflection
+### Literature Review Assignment - Reflection
 
 [System Design - Reflection](/pdf/system_design_reflection.pdf) 
 
 
-### System Implementation Reflection
+### Research Proposal Presentation - Reflection
 
 [System Implementation - Reflection](/pdf/s_ystem_implementation_reflection.pdf) 
 
 
-### Final Reflection - Object Oriented Programming
+### Final Reflection - Research Methods and Professional Practice
+
 [Final Reflection](/pdf/final_reflection.pdf) 
