@@ -4,22 +4,22 @@
 
 ### Object Oriented Programming
 
-[OOP Artefacts](/artefacts.md)
+[Module Artefacts](/artefacts.md)
 
 <img src="images/Compute.jpg?raw=true"/>
 
 ---
-[OOP Reflections](/reflections.md)
+[Module Reflections](/reflections.md)
 
 <img src="images/reflection.jpg?raw=true"/>
 
 ---
-[System Design Assignment](/system_design.md)
+[Literature Review Assignment](/Literature_Review.md)
 
 <img src="images/uml.jpg?raw=true"/>
 
 ---
-[System Implementation Assignment](/system_implementation.md)
+[Research Proposal Presentation Assignment](/Research_Proposal_Presentation.md)
 
 <img src="images/python.jpg?raw=true"/>
 
