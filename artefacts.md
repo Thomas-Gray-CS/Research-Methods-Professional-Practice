@@ -3,7 +3,7 @@
 
 ### Artefact 1: Reflective Activity 1: Ethics in Computing
 
-[Ethics in Computing](/pdf/e_portfolio_development.pdf)
+[Ethics in Computing](/pdf/ethics_in_computing.pdf)
 
 
 ### Artefact 2: Literature Review Outlines
