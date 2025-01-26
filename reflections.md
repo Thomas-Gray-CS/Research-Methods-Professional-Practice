@@ -9,7 +9,7 @@ Below are reflection pieces written regarding two of the assignments completed d
 
 ### Research Proposal Presentation - Reflection
 
-[System Implementation - Reflection](/pdf/s_ystem_implementation_reflection.pdf) 
+[Research Proposal Presentation - Reflection](/pdf/reflection_research_prop.pdf) 
 
 
 ### Final Reflection - Research Methods and Professional Practice
