@@ -1,22 +1,19 @@
 # Object Oriented Programming - Artefacts 
 
 
-### Artefact 1: Reflections on the Power of E-Portfolios
+### Artefact 1: Reflective Activity 1: Ethics in Computing
 
-[E-Portfolio Development Reflection](/pdf/e_portfolio_development.pdf)
-
-
-### Artefact 2: Collaborative Discussion regarding Reusability of Code in OOP
+[Ethics in Computing](/pdf/e_portfolio_development.pdf)
 
 
+### Artefact 2: Literature Review Outlines
 
-[Collaborative Discussion](/pdf/collaborative_discussion.pdf)
-
-
-### Artefact 3: UML Models within the Software Development Life Cycle
+[Literature Review Outline](/pdf/collaborative_discussion.pdf)
 
 
-[UML and SDLC](/pdf/uml_in_sdlc.pdf)
+### Artefact 3: Research Proposal Review
+
+[Research Proposal Review](/pdf/uml_in_sdlc.pdf)
 
 
 ### Artefact 4: Python Code Showing Protected and Unprotected Variables
