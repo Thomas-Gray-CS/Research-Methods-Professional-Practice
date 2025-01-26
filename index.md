@@ -2,7 +2,7 @@
 
 ---
 
-### Object Oriented Programming
+### Research Methods and Professional Practice
 
 [Module Artefacts](/artefacts.md)
 
