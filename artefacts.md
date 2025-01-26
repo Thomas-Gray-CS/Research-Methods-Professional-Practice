@@ -13,7 +13,7 @@
 
 ### Artefact 3: Research Proposal Review
 
-[Research Proposal Review](/pdf/uml_in_sdlc.pdf)
+[Research Proposal Review](/pdf/research_prop_review.pdf)
 
 
 ### Artefact 4: Research Proposal Outline
