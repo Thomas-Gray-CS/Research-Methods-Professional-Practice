@@ -18,7 +18,7 @@
 
 ### Artefact 4: Research Proposal Outline
 
-[Research Proposal Outline](/pdf/uml_in_sdlc.pdf)
+[Research Proposal Outline](/pdf/research_outline.pdf)
 
 
 ### Artefact 5: Statistical Worksheets
