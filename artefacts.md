@@ -1,4 +1,4 @@
-# Object Oriented Programming - Artefacts 
+# Research Methods and Professional Practice - Artefacts 
 
 
 ### Artefact 1: Reflective Activity 1: Ethics in Computing
