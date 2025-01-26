@@ -30,9 +30,10 @@
 
 [Charts Worksheets](/pdf/uml_in_sdlc.pdf)
 
+
 ### Artefact 7: Collaborative Discussions
 
-[Collaborative Discussions](/pdf/uml_in_sdlc.pdf)
+[Collaborative Discussions](/pdf/collaborative_discussion.pdf)
 
 
 
