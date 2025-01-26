@@ -16,15 +16,23 @@
 [Research Proposal Review](/pdf/uml_in_sdlc.pdf)
 
 
-### Artefact 4: Python Code Showing Protected and Unprotected Variables
+### Artefact 4: Research Proposal Outline
+
+[Research Proposal Outline](/pdf/uml_in_sdlc.pdf)
 
 
-### Artefact 5: Polymorphism Example
+### Artefact 5: Statistical Worksheets
+
+[Statistical Worksheets](/pdf/uml_in_sdlc.pdf)
 
 
-### Artefact 6: Discussion On Cyclomatic Complexity
+### Artefact 6: Charts Worksheets
 
+[Charts Worksheets](/pdf/uml_in_sdlc.pdf)
 
+### Artefact 7: Collaborative Discussions
+
+[Collaborative Discussions](/pdf/uml_in_sdlc.pdf)
 
 
 
