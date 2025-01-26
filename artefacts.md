@@ -6,9 +6,9 @@
 [Ethics in Computing](/pdf/ethics_in_computing.pdf)
 
 
-### Artefact 2: Literature Review Outlines
+### Artefact 2: Literature Review Outline
 
-[Literature Review Outline](/pdf/collaborative_discussion.pdf)
+[Literature Review Outline](/pdf/lit_review_plan.pdf)
 
 
 ### Artefact 3: Research Proposal Review
