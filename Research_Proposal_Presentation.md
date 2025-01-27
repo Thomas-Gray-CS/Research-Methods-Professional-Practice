@@ -20,11 +20,11 @@ As part of this module, I have been required to complete a research proposal pre
 
    
 
-## Research Proposal Presentation
+## Script
 
 [Proposal Presentation](/PDF/final_project_presentation.pdf)
 
-## Script
+## Presentation
 
 [Proposal Script](/PDF/research_presentation.pdf)
 
