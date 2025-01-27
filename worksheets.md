@@ -18,6 +18,7 @@
 
 ### Worksheet 4
 
+Within this worksheet, I have generated charts that highlight whether a particular brand is preferred in a certain area. Both the frequencies and percentages for each have been provided. Analysis the results
 [Worksheet 4](/excel/exercise_9.1D.xlsx)
 
 
