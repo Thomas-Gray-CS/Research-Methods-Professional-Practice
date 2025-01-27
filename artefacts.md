@@ -21,17 +21,12 @@
 [Research Proposal Outline](/pdf/research_outline.pdf)
 
 
-### Artefact 5: Statistical Worksheets
-
-[Statistical Worksheets](/pdf/uml_in_sdlc.pdf)
-
-
-### Artefact 6: Charts Worksheets
+### Artefact 5: Charts Worksheets
 
 [Charts Worksheets](/pdf/uml_in_sdlc.pdf)
 
 
-### Artefact 7: Collaborative Discussions
+### Artefact 6: Collaborative Discussions
 
 [Collaborative Discussions](/pdf/collaborative_discussion.pdf)
 
