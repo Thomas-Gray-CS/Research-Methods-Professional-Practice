@@ -2,18 +2,21 @@
 
 I have completed a Professional Skills Matrix, which highlights where I believe I am in terms of my development as a computing professional, which is attached below.
 
-[Professional Skills Matrix](pdf/psm.pdf)
+[Professional Skills Matrix](excel/psm.xlsx)
+
+
+## Action Plan
+
+I have completed an Action Plan, that sets out the steps I will take over the next year to make sure I am a competent computing professional.
+
+[Action Plan](PDF/action_plan.pdf)
 
 ## Learning Outcomes
 
-The learning outcomes for this module are as follows:
-
-1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
-2) Design and implement programs that demonstrate appropriate use of object-oriented design principles.
-3) Select and use appropriate data structures for a given problem.
-4) Propose object-oriented solutions using an appropriate modelling language, such as UML.
-
-Reference to these is made throughout my portfolio to highlight how I have met them.
+1) Appraise the professional, legal, social, cultural and ethical issues that affect computing professionals.
+2) Appraise the principles of academic investigation, applying them to a research topic in the applicable computing field.
+3) Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.
+4) Produce and evaluate critically a research proposal for the chosen topic.
 
 
 [Return to Index](/index.md)
