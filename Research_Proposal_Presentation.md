@@ -22,7 +22,11 @@ As part of this module, I have been required to complete a research proposal pre
 
 ## Research Proposal Presentation
 
-[Proposal Document](/pdf/design_proposal.pdf)
+[Proposal Presentation](/PDF/final_project_presentation.pdf)
+
+## Script
+
+[Proposal Script](/PDF/research_presentation.pdf)
 
 
 [Return to Index](/index.md)
