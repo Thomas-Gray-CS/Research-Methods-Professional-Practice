@@ -32,4 +32,6 @@ Within this worksheet, I have generated charts that show how abundant a particul
 
 ### Worksheet 6
 
+Within this worksheet, I have generated histograms that compare the effectiveness of two different weight loss products. Upon analysing the results of this, it can be inferred that both products provide similar results, however product A does seem to have a higher mean average weight loss. The curvature of product A also seems to be more consistent, indicating that there could be potential statistical outliers within product B that may need further investigation. This can be seen in the lack of any result within the bounds of -4 and -2.
+
 [Worksheet 6](/excel/exercise_9.3B.xlsx)
