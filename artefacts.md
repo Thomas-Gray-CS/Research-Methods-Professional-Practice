@@ -23,7 +23,7 @@
 
 ### Artefact 5: Charts Worksheets
 
-[Charts Worksheets](/pdf/uml_in_sdlc.pdf)
+[Charts Worksheets](/worksheets.md)
 
 
 ### Artefact 6: Collaborative Discussions
