@@ -18,7 +18,7 @@ As part of this module, I have been required to complete a literature review to 
 
 ## Literature Review 
 
-[Proposal Document](/PDF/design_proposal.pdf)
+[Proposal Document](/PDF/lit_review.pdf)
 
 
 [Return to Index](/index.md)
