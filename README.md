@@ -14,3 +14,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
 ___
+
+[Return to Index](/index.md)
