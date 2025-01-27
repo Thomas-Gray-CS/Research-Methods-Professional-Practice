@@ -1,24 +1,31 @@
-# Literature Review Assignment
+# Charts and Statistical Worksheets
 
-As part of this module, I have been required to complete a literature review to demostrate that I have the ability to complete this for my final project. The topic of the literature review is "The impact of modern technology on student learning experiences in higher education".
 
-#### This assignment meets the following learning aims:
+### Worksheet 1
 
-1) Acquire the ability to develop research competencies, in particular those relating to the collection and analysis of data types to enable a critical design and evaluation of independent research.
-
-2) Have the opportunity to take a reflective and independent approach to the learning process.
-
-#### This assignment meets the following learning outcome:
-
-1) Appraise the principles of academic investigation, applying them to a research topic in the applicable computing field.
-
-2) Evaluate critically existing literature, research design and methodology for the chosen topic, including data analysis processes.
-
+[Worksheet 1](/excel/exercise_8.1B.xlsx)
    
 
-## Literature Review 
+### Worksheet 2
 
-[Proposal Document](/pdf/design_proposal.pdf)
+[Worksheet 2](/excel/exercise_8.2B.xlsx)
 
 
+### Worksheet 3
 
+[Worksheet 3](/excel/exercise_8.6C.xlsx)
+
+
+### Worksheet 4
+
+[Worksheet 4](/excel/exercise_9.1D.xlsx)
+
+
+### Worksheet 5
+
+[Worksheet 5](/excel/exercise_9.2E.xlsx)
+
+
+### Worksheet 6
+
+[Worksheet 6](/excel/exercise_9.3B.xlsx)
